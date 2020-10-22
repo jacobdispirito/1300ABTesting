@@ -16,8 +16,8 @@ header {
 }
 
 .vendor-photo {
-	max-width: 200px;
-	max-height: 150px;
+	width: 200px;
+	height: 150px;
 	padding-right: 20px;
 }
 
